@@ -2,13 +2,15 @@
 
 A web app created to promote a luxury car rental service in Toronto.
 
-Built using react
+Built using react.js
 
-## Commands
+## Start guide
+
+### `npm update`
+To install all current dependencies
 
 ### `npm start`
-
-### `npm build`
+To view current build
 
 # Links to resources:
 
